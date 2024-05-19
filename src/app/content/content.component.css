@@ -1,0 +1,7 @@
+div{
+    background-color:rgb(217, 255, 0);
+    height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
